@@ -5,8 +5,8 @@
   "main": "test.js",
   "dependencies": {},
   "devDependencies": {
-    "kuromoji": "0.0.5",
-    "mocha": "^2.5.3"
+    "kuromoji": "0.1.1",
+    "mocha": "^3.2.0"
   },
   "scripts": {
     "test": "mocha"
